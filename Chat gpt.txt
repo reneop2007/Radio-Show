@@ -1,0 +1,5 @@
+Chat gpt
+Prompt for the radio station assignment.
+
+Create and code a website that is an online radio station. This station should feature music by The Offspring. Make a construction-looking radio station website, include java, css and html on site. Make this site amazing yet easy to use to play online music, which will come from placeholder for the cds and song title that I will replace each song with an mp3 file. The user can pick from. Each audio should have a name, description, and track each track should have a time along with the runtime, which is the length of the music. The title of the site should be Lets Rock! Alt Rock! please have 3 rock images and seperate a robot DJ
+
